@@ -1,9 +1,9 @@
 {
-  "name": "TamilVcMusic",
-  "logo": "https://telegra.ph/file/a948caa899055d6109fad.jpg",
+  "name": "♦️༄αкαѕнʟɛɢɛռɖẞογβοτ♦️",
+  "logo": "https://telegra.ph/file/7531df157c5d09e52ad1c.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/TamilBots/TamilVcMusic",
+  "repository": "https://github.com/Akash564op/TamilVcMusic",
   "stack": "heroku-20",
   "buildpacks": [
    {
@@ -53,7 +53,7 @@
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
       "required": false,
-      "value": "https://telegra.ph//file/bfabfba9e552b67b04ebb.png"
+      "value": "https://telegra.ph/file/7531df157c5d09e52ad1c.jpg"
     },     
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
