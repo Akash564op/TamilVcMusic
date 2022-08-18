@@ -1,18 +1,18 @@
-# TamilVcMusic
+# AkashvcMusic
 
-<h1 align="centre">🌟TamilVCMusicBot🌟</h1>
+<h1 align="centre">🌟♦️༄αкαѕнʟɛɢɛռɖẞογβοτ♦️🌟</h1>
 
 ## Give your 💙
 
 Before clicking on deploy to heroku just click on fork and star just below
 
 <p align="center">
-  <a href="https://github.com/TamilBots/TamilVCMusic/fork">
-    <img src="https://img.shields.io/github/forks/TamilBots/TamilVCMusic?label=Fork&style=social">
+  <a href="https://github.com/Akash564op/TamilVCMusic/fork">
+    <img src="https://img.shields.io/github/forks/Akash546op/TamilVCMusic?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/TamilBots/TamilVCMusic">
-    <img src="https://img.shields.io/github/stars/TamilBots/TamilVCMusic?style=social">
+  <a href="https://github.com/Akash564op/TamilVCMusic">
+    <img src="https://img.shields.io/github/stars/Akash546op/TamilVCMusic?style=social">
   </a>
 </p>
 
@@ -20,7 +20,7 @@ Before clicking on deploy to heroku just click on fork and star just below
 
 Click the below button to watch the video tutorial on deploying
 
-[![Tutorial](https://yt-embed.herokuapp.com/embed?v=kc5LnhEvq48)](https://www.youtube.com/watch?v=kc5LnhEvq48)
+[![Tutorial](https://yt-embed.herokuapp.com/embed?v=kc5LnhEvq48)](https://t.me/Akashop_Boy)
 
 <a href="https://youtu.be/kc5LnhEvq48"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
 <a href="https://youtu.be/kc5LnhEvq48"><img src="https://img.shields.io/youtube/views/kc5LnhEvq48?style=social">
@@ -147,7 +147,7 @@ $ python3 -m TamilBots
 If you donlt like to play in linked channel:
  1. Get your channel ID.
  2. Rename your group to: Channel Music: your_channel_id
- 3. Add [@TamiliniBot](https://t.me/TamiliniBot) as Channel admin with full perms
+ 3. Add [@Akashop_Boy](http://t.me/Akash199_bot) as Channel admin with full perms
  4. add helper to channel
  5. Simply send commands in your group.
 
@@ -163,7 +163,7 @@ If you donlt like to play in linked channel:
 
 </details>
 
-## Made with ❤️ By [TamilBots](https://t.me/TamilBots)
+## Made with ❤️ By [AkashBots](http://t.me/Akash199_bot)
 
 ### Credits
 #### Special Credits
